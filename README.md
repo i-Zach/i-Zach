@@ -1,10 +1,6 @@
 <p align="center"><img width="991" height="55" alt="tumblr_586153f125c093ba529b7e66edee942f_377a2d3e_640" src="https://github.com/user-attachments/assets/8b96b18f-7b3e-4974-a6fd-a1159c634fd6" /></p>
-<p align="center">things i made i think maybe </p>
 <p align="center"><img width="732" height="476" alt="Screenshot 2026-05-30 010728" src="https://github.com/user-attachments/assets/b5c91914-70e7-4a67-8b6b-026acfe57f3e" /></p>
-<p align="center"><img width="523" height="516" alt="Screenshot 2026-05-31 134205" src="https://github.com/user-attachments/assets/14a797b6-6a0d-4cbb-bab8-fc42e3a26b18" /></p>
-<p align="center"><img width="991" height="539" alt="Screenshot 2026-05-23 122247" src="https://github.com/user-attachments/assets/a587057d-351f-415c-8e33-92f3b34087a9" /></p>
-<p align="center"><img width="685" height="393" alt="Screenshot 2026-05-07 132514" src="https://github.com/user-attachments/assets/6844e5dd-739f-4c8d-b957-4bb034d7c515" /></p>
-<p align="center"><img width="513" height="535" alt="Screenshot 2026-05-19 130802" src="https://github.com/user-attachments/assets/13ac3b86-a077-450f-9202-4d6ebb24576f" /></p>
+
 
 
 
