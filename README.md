@@ -1,4 +1,4 @@
-## things i made i think maybe 
+<p align="center"> ## things i made i think maybe </p>
 <img width="523" height="516" alt="Screenshot 2026-05-31 134205" src="https://github.com/user-attachments/assets/14a797b6-6a0d-4cbb-bab8-fc42e3a26b18" />
 <img width="731" height="505" alt="Screenshot 2026-05-31 164552" src="https://github.com/user-attachments/assets/f676238b-ddbf-494d-b8e2-402de1d92baf" />
 <img width="991" height="539" alt="Screenshot 2026-05-23 122247" src="https://github.com/user-attachments/assets/a587057d-351f-415c-8e33-92f3b34087a9" />
