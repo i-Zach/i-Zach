@@ -1,3 +1,4 @@
+<p align="center"><img width="344" height="24" alt="tumblr_869892394580677c9909ae2d41721561_b0a73d40_400" src="https://github.com/user-attachments/assets/426a8f99-7497-4c6b-b311-e78fd9ba5ed7" /></p>
 <p align="center">things i made i think maybe </p>
 <p align="center"><img width="523" height="516" alt="Screenshot 2026-05-31 134205" src="https://github.com/user-attachments/assets/14a797b6-6a0d-4cbb-bab8-fc42e3a26b18" /></p>
 <p align="center"><img width="696" height="486" alt="Screenshot 2026-06-06 195153" src="https://github.com/user-attachments/assets/15b3a683-ee41-4f9a-8040-f39ad42e8987" /></p>
