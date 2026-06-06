@@ -1,4 +1,4 @@
-<p align="center"><img width="991" height="90" alt="tumblr_586153f125c093ba529b7e66edee942f_377a2d3e_640" src="https://github.com/user-attachments/assets/8b96b18f-7b3e-4974-a6fd-a1159c634fd6" /></p>
+<p align="center"><img width="991" height="50" alt="tumblr_586153f125c093ba529b7e66edee942f_377a2d3e_640" src="https://github.com/user-attachments/assets/8b96b18f-7b3e-4974-a6fd-a1159c634fd6" /></p>
 <p align="center">things i made i think maybe </p>
 <p align="center"><img width="523" height="516" alt="Screenshot 2026-05-31 134205" src="https://github.com/user-attachments/assets/14a797b6-6a0d-4cbb-bab8-fc42e3a26b18" /></p>
 <p align="center"><img width="696" height="486" alt="Screenshot 2026-06-06 195153" src="https://github.com/user-attachments/assets/15b3a683-ee41-4f9a-8040-f39ad42e8987" /></p>
