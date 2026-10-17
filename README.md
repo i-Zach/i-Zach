@@ -1,4 +1,3 @@
-<p align="center"><img width="900" height="700" alt="Untitled208_20261017144849" src="https://github.com/user-attachments/assets/261f0006-c097-469b-b4b3-02ce86b6ba4d" /></p>
 <table align="center">
   <tr>
     <td style="vertical-align: middle; padding-right: 20px;">
@@ -9,6 +8,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Rye&size=24&pause=990&color=8F9C77&width=438&height=51&lines=%E2%80%A6+If+you're+so+funny%2C;why+are+you+on+your+own+tonight%3F;And+if+you're+so+clever...;why+are+you+on+your+own+tonight%3F)](https://git.io/typing-svg)" />
   </a>
 </p>
+
+<p align="center"><img width="900" height="700" alt="Untitled208_20261017144849" src="https://github.com/user-attachments/assets/261f0006-c097-469b-b4b3-02ce86b6ba4d" /></p>
     
   <td style="vertical-align: middle;">
       <p align="center" style="margin: 0;">
