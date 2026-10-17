@@ -8,8 +8,6 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Rye&size=24&pause=990&color=8F9C77&width=438&height=51&lines=%E2%80%A6+If+you're+so+funny%2C;why+are+you+on+your+own+tonight%3F;And+if+you're+so+clever...;why+are+you+on+your+own+tonight%3F)](https://git.io/typing-svg)" />
   </a>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=1e120e" alt="Profile Views" />
 </p>
     
   <td style="vertical-align: middle;">
