@@ -1,3 +1,9 @@
+<p align="center"><img width="900" height="700" alt="Untitled208_20261017144849" src="https://github.com/user-attachments/assets/261f0006-c097-469b-b4b3-02ce86b6ba4d" /></p>
+<table align="center">
+  <tr>
+    <td style="vertical-align: middle; padding-right: 20px;">
+      <img width="50" height="40="image" src="https://github.com/user-attachments/assets/d1d1509c-1744-4cab-9b67-0d3011c1f6f3" />
+    </td>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Rye&size=24&pause=990&color=8F9C77&width=438&height=51&lines=%E2%80%A6+If+you're+so+funny%2C;why+are+you+on+your+own+tonight%3F;And+if+you're+so+clever...;why+are+you+on+your+own+tonight%3F)](https://git.io/typing-svg)" />
@@ -5,14 +11,8 @@
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&color=1e120e" alt="Profile Views" />
 </p>
-
-<p align="center"><img width="900" height="700" alt="Untitled208_20261017144849" src="https://github.com/user-attachments/assets/261f0006-c097-469b-b4b3-02ce86b6ba4d" /></p>
-<table align="center">
-  <tr>
-    <td style="vertical-align: middle; padding-right: 20px;">
-      <img width="50" height="40="image" src="https://github.com/user-attachments/assets/d1d1509c-1744-4cab-9b67-0d3011c1f6f3" />
-    </td>
-    <td style="vertical-align: middle;">
+    
+  <td style="vertical-align: middle;">
       <p align="center" style="margin: 0;">
         $\color{#4F3B1E}{\large\textbf{will you come and see me?}}$<br>
         $\color{#474633}{\large\textbf{I suppose we'll never know.}}$
@@ -63,4 +63,5 @@
     <img width="160" height="72" alt="IMG_20261017_165004" src="https://github.com/user-attachments/assets/a41e0cf1-442e-4fa7-a368-bc7bae3f2065" />
   </a>
 </p>
+
 
