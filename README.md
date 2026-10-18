@@ -2,7 +2,7 @@
   <tr style="border: none; background: transparent;">
     <!-- The Rose Decorative Icon -->
     <td style="border: none; vertical-align: middle; padding-right: 15px; background: transparent;">
-      <img width="50" alt="image" src="https://github.com/user-attachments/assets/f1decb49-f38f-42b1-a405-2965dcb9798c" />
+      <img width="100" alt="tumblr_f779b710ca2d4cab751bb590412592b5_7a8d40e0_400" src="https://github.com/user-attachments/assets/aa76eb02-86e0-4292-9eae-e93c541cd690" />
     </td>
     <!-- The Animated Typing SVG Text -->
     <td style="border: none; vertical-align: middle; background: transparent;">
