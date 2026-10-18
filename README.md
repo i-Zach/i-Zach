@@ -35,7 +35,7 @@
 <div align="left">
 <details>
   <summary style="cursor: pointer; list-style: none;">
-    ▼ ${\color{#433018}\Large\text{ABOUT ME}}$
+     ${\color{#433018}\Large\text{ABOUT ME}}$
   </summary>
   
   <div style="margin-top: 15px;">
@@ -50,7 +50,7 @@
 <div align="right">
 <details>
   <summary style="cursor: pointer; list-style: none;">
-     ▼ ${\color{#778A73}\Large\text{BEFORE YOU INT}}$
+      ${\color{#778A73}\Large\text{BEFORE YOU INT}}$
   </summary>
 
   <div style="margin-top: 15px;">
