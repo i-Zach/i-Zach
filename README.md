@@ -1,35 +1,31 @@
-<table align="center">
-  <tr>
-    <td style="vertical-align: middle; padding-right: 20px;">
-      <img width="50" height="40="image" src="https://github.com/user-attachments/assets/d1d1509c-1744-4cab-9b67-0d3011c1f6f3" />
+<table align="center" style="border: none; border-collapse: collapse; background: transparent;">
+  <tr style="border: none; background: transparent;">
+    <!-- The Rose Decorative Icon -->
+    <td style="border: none; vertical-align: middle; padding-right: 15px; background: transparent;">
+      <img width="50" alt="image" src="https://github.com/user-attachments/assets/f1decb49-f38f-42b1-a405-2965dcb9798c" />
     </td>
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Rye&size=24&pause=990&color=8F9C77&width=438&height=51&lines=%E2%80%A6+If+you're+so+funny%2C;why+are+you+on+your+own+tonight%3F;And+if+you're+so+clever...;why+are+you+on+your+own+tonight%3F)](https://git.io/typing-svg)" />
-  </a>
-</p>
+    <!-- The Animated Typing SVG Text -->
+    <td style="border: none; vertical-align: middle; background: transparent;">
+      <a href="https://git.io/typing-svg" target="_blank">
+        <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Rye&size=22&pause=990&color=828E6C&width=438&height=51&lines=Cowboys+and+angels.;They+all+take+a+shine+to+you.;Why+should+I+imagine+-+;-+that+I+was+designed+for+you%3F;Why+should+I+believe%3F;That+you+would+stay..." />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="center"><img width="900" height="700" alt="Untitled208_20261017144849" src="https://github.com/user-attachments/assets/261f0006-c097-469b-b4b3-02ce86b6ba4d" /></p>
+
+<p align="center"><img width="900"  alt="Untitled208_20261017144849" src="https://github.com/user-attachments/assets/261f0006-c097-469b-b4b3-02ce86b6ba4d" /></p>
 
 
 <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px; margin: 0 auto;">
   <a href="https://pronouns.cc/@I-zach" target="_blank">
-    <img width="150" height="50" alt="image" src="https://github.com/user-attachments/assets/d068e5d4-f1f1-4f98-8963-76d01ae0e167" />
+    <img width="150"  alt="image" src="https://github.com/user-attachments/assets/d068e5d4-f1f1-4f98-8963-76d01ae0e167" />
   </a>
   <a href="https://bunner1e.atabook.org/" target="_blank">
-    <img width="160" height="50" alt="IMG_20261017_165004" src="https://github.com/user-attachments/assets/a41e0cf1-442e-4fa7-a368-bc7bae3f2065" />
+    <img width="160" alt="IMG_20261017_165004" src="https://github.com/user-attachments/assets/a41e0cf1-442e-4fa7-a368-bc7bae3f2065" />
   </a>
 </p>
 
-    
-  <td style="vertical-align: middle;">
-      <p align="center" style="margin: 0;">
-        $\color{#4F3B1E}{\large\textbf{will you come and see me?}}$<br>
-        $\color{#474633}{\large\textbf{I suppose we'll never know.}}$
-      </p>
-    </td>
-  </tr>
-</table>
 
 
 <div align="left">
@@ -37,6 +33,8 @@
   <summary style="cursor: pointer; list-style: none;">
      ${\color{#433018}\Large\text{ABOUT ME ⟡}}$
   </summary>
+
+
   
   <div style="margin-top: 15px;">
     ${\color{#788A72}\text{hi chuds You can call me Quill or Zach. I go by they/it, any masc are fine but no feminine pronouns.}}$
@@ -64,7 +62,7 @@
 </div>
 
 
-<p align="center"><img width="900" height="500" alt="Untitled206_20261017160438" src="https://github.com/user-attachments/assets/1242c28d-51c3-46ea-afc8-6e125733097b" /></p>
+<p align="center"><img width="900" alt="Untitled206_20261017160438" src="https://github.com/user-attachments/assets/1242c28d-51c3-46ea-afc8-6e125733097b" /></p>
 
 
 
