@@ -54,6 +54,7 @@
   </summary>
 
   <div style="margin-top: 15px;">
+    ${\color{#474430}\text{-16 minors please iwec. }}$
     ${\color{#474430}\text{Be kind. I'm currently struggling, and memory loss is another factor. Don't bring up dementia jokes as I'm trying my best to remember. }}$
       ${\color{#474430}\text{Sexual/borderline nsfw related things make me extremely uncomfortable. Mind your words or else i will hashtag block you.}}$
       ${\color{#573F23}\text{this includes ponies dressing up as maids/bunny outfits, yes its not that bad but its just weird.}}$
