@@ -14,10 +14,10 @@
 
 <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px; margin: 0 auto;">
   <a href="https://pronouns.cc/@I-zach" target="_blank">
-    <img width="160" height="72" alt="image" src="https://github.com/user-attachments/assets/d068e5d4-f1f1-4f98-8963-76d01ae0e167" />
+    <img width="150" height="50" alt="image" src="https://github.com/user-attachments/assets/d068e5d4-f1f1-4f98-8963-76d01ae0e167" />
   </a>
   <a href="https://bunner1e.atabook.org/" target="_blank">
-    <img width="160" height="72" alt="IMG_20261017_165004" src="https://github.com/user-attachments/assets/a41e0cf1-442e-4fa7-a368-bc7bae3f2065" />
+    <img width="160" height="50" alt="IMG_20261017_165004" src="https://github.com/user-attachments/assets/a41e0cf1-442e-4fa7-a368-bc7bae3f2065" />
   </a>
 </p>
 
