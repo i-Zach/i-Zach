@@ -10,6 +10,17 @@
 </p>
 
 <p align="center"><img width="900" height="700" alt="Untitled208_20261017144849" src="https://github.com/user-attachments/assets/261f0006-c097-469b-b4b3-02ce86b6ba4d" /></p>
+
+
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px; margin: 0 auto;">
+  <a href="https://pronouns.cc/@I-zach" target="_blank">
+    <img width="160" height="72" alt="image" src="https://github.com/user-attachments/assets/d068e5d4-f1f1-4f98-8963-76d01ae0e167" />
+  </a>
+  <a href="https://bunner1e.atabook.org/" target="_blank">
+    <img width="160" height="72" alt="IMG_20261017_165004" src="https://github.com/user-attachments/assets/a41e0cf1-442e-4fa7-a368-bc7bae3f2065" />
+  </a>
+</p>
+
     
   <td style="vertical-align: middle;">
       <p align="center" style="margin: 0;">
@@ -24,14 +35,13 @@
 <div align="left">
 <details>
   <summary style="cursor: pointer; list-style: none;">
-     ${\color{#778A73}\text{ABOUT ME}}$
+    ▼ ${\color{#433018}\Large\text{ABOUT ME}}$
   </summary>
   
   <div style="margin-top: 15px;">
     ${\color{#788A72}\text{hi chuds You can call me Quill or Zach. I go by they/it, any masc are fine but no feminine pronouns.}}$
       ${\color{#788A72}\text{i luv making new friends!!! don't be shy to come up to me and c+h!!! I'm very kind i swear!}}$
      ${\color{#788A72}\text{scagspeak and hashtags are my favorite typing quirks... I do those... shh...}}$
-    <!-- Line 2 of your bio -->
     ${\color{#867D66}\text{skin inspo is okay, just ask for permission. Full on copying is a no-no. Do not copy my skins. }}$
   </div>
 </details>
@@ -40,7 +50,7 @@
 <div align="right">
 <details>
   <summary style="cursor: pointer; list-style: none;">
-     ${\color{#778A73}\text{BEFORE YOU INT}}$
+     ▼ ${\color{#778A73}\Large\text{BEFORE YOU INT}}$
   </summary>
 
   <div style="margin-top: 15px;">
@@ -54,13 +64,6 @@
 
 
 <p align="center"><img width="900" height="500" alt="Untitled206_20261017160438" src="https://github.com/user-attachments/assets/1242c28d-51c3-46ea-afc8-6e125733097b" /></p>
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px; margin: 0 auto;">
-  <a href="https://pronouns.cc/@I-zach" target="_blank">
-    <img width="160" height="72" alt="image" src="https://github.com/user-attachments/assets/d068e5d4-f1f1-4f98-8963-76d01ae0e167" />
-  </a>
-  <a href="https://bunner1e.atabook.org/" target="_blank">
-    <img width="160" height="72" alt="IMG_20261017_165004" src="https://github.com/user-attachments/assets/a41e0cf1-442e-4fa7-a368-bc7bae3f2065" />
-  </a>
-</p>
+
 
 
