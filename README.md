@@ -37,7 +37,7 @@
 
   
   <div style="margin-top: 15px;">
-    ${\color{#788A72}\text{hi chuds You can call me Quill or Zach ---TESTING. I go by they/it, any masc are fine but no feminine pronouns.}}$
+    ${\color{#788A72}\text{hi chuds You can call me Quill or Zach. I go by they/it, any masc are fine but no feminine pronouns.}}$
       ${\color{#788A72}\text{i luv making new friends!!! don't be shy to come up to me and c+h!!! I'm very kind i swear!}}$
      ${\color{#788A72}\text{scagspeak and hashtags are my favorite typing quirks... I do those... shh...}}$
     ${\color{#867D66}\text{skin inspo is okay, just ask for permission. Full on copying is a no-no. Do not copy my skins. }}$
