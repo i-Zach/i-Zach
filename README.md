@@ -68,7 +68,7 @@
      ${\color{#433018}\Large\text{⟡ nominations ⟡}}$
   </summary>
   <div style="margin-top: 15px;">
-    ${\color{#788A72}\text{hi chuds You can call me Quill or Zach. I go by they/it, any masc are fine but no feminine pronouns.}}$
+    ${\color{#869789}\text{hi chuds You can call me Quill or Zach. I go by they/it, any masc are fine but no feminine pronouns.}}$
   </div>
 </details>
 </div>
