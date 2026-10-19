@@ -33,9 +33,6 @@
   <summary style="cursor: pointer; list-style: none;">
      ${\color{#433018}\Large\text{ABOUT ME ⟡}}$
   </summary>
-
-
-  
   <div style="margin-top: 15px;">
     ${\color{#788A72}\text{hi chuds You can call me Quill or Zach. I go by they/it, any masc are fine but no feminine pronouns.}}$
       ${\color{#788A72}\text{i luv making new friends!!! don't be shy to come up to me and c+h!!! I'm very kind i swear!}}$
@@ -64,6 +61,14 @@
 
 <p align="center"><img width="900" alt="Untitled206_20261017160438" src="https://github.com/user-attachments/assets/1242c28d-51c3-46ea-afc8-6e125733097b" /></p>
 
-
-
-<img width="1280" alt="1000015842" src="https://github.com/user-attachments/assets/f067a345-4bef-43cc-ae5f-b557b525efb3" />
+<p align="center"><img width="200" alt="1000015842" src="https://github.com/user-attachments/assets/f067a345-4bef-43cc-ae5f-b557b525efb3" /></p>
+<div align="center">
+<details>
+  <summary style="cursor: pointer; list-style: none;">
+     ${\color{#433018}\Large\text{⟡ nominations ⟡}}$
+  </summary>
+  <div style="margin-top: 15px;">
+    ${\color{#788A72}\text{hi chuds You can call me Quill or Zach. I go by they/it, any masc are fine but no feminine pronouns.}}$
+  </div>
+</details>
+</div>
