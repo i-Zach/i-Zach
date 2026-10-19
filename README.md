@@ -65,10 +65,10 @@
 <div align="center">
 <details>
   <summary style="cursor: pointer; list-style: none;">
-     ${\color{#433018}\Large\text{⟡ nominations ⟡}}$
+     ${\color{#869789}\Large\text{⟡ nominations ⟡}}$
   </summary>
   <div style="margin-top: 15px;">
-    ${\color{#869789}\text{hi chuds You can call me Quill or Zach. I go by they/it, any masc are fine but no feminine pronouns.}}$
+   <img width="178" height="32" alt="image" src="https://github.com/user-attachments/assets/583c2301-376c-4a1b-b588-639df24a92cc" />
   </div>
 </details>
 </div>
