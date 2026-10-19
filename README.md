@@ -68,7 +68,9 @@
      ${\color{#869789}\Large\text{⟡ nominations ⟡}}$
   </summary>
   <div style="margin-top: 15px;">
-   <img width="178" height="32" alt="image" src="https://github.com/user-attachments/assets/583c2301-376c-4a1b-b588-639df24a92cc" />
+    <a href="https://github.com/daggerstruckmage" target="_blank">
+   <img width="178" alt="image" src="https://github.com/user-attachments/assets/583c2301-376c-4a1b-b588-639df24a92cc" />
+    </a>
   </div>
 </details>
 </div>
