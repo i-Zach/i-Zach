@@ -65,11 +65,10 @@
 <div align="center">
 <details>
   <summary style="cursor: pointer; list-style: none;">
-     ${\color{#869789}\Large\text{⟡ titles ⟡}}$
+     ${\color{#869789}\Large\text{⟡ xtra ⟡}}$
   </summary>
   <div style="margin-top: 15px;">
-    <a href="https://github.com/daggerstruckmage" target="_blank">
-   <img width="178" alt="image" src="https://github.com/user-attachments/assets/583c2301-376c-4a1b-b588-639df24a92cc" />
+   <img width="1024" height="519" alt="Untitled220_20261023235740" src="https://github.com/user-attachments/assets/71d184ac-647b-4b15-ab7b-3c251a51c60e" />
     </a>
   </div>
 </details>
