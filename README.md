@@ -65,7 +65,7 @@
 <div align="center">
 <details>
   <summary style="cursor: pointer; list-style: none;">
-     ${\color{#869789}\Large\text{⟡ nominations ⟡}}$
+     ${\color{#869789}\Large\text{⟡ titles ⟡}}$
   </summary>
   <div style="margin-top: 15px;">
     <a href="https://github.com/daggerstruckmage" target="_blank">
