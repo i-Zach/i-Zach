@@ -69,7 +69,7 @@
   </summary>
   <div style="margin-top: 15px;">
    <img width="700"  alt="Untitled220_20261023235740" src="https://github.com/user-attachments/assets/71d184ac-647b-4b15-ab7b-3c251a51c60e" />
-    <p align="center"> ikitty    me     @dearvoidstar    @Jeverus  
+    <p align="center"> @i-kittytrap    me     @dearvoidstar    @Jeverus  
   </div>
 </details>
 </div>
