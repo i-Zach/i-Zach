@@ -60,16 +60,5 @@
 
 
 <p align="center"><img width="900" alt="Untitled206_20261017160438" src="https://github.com/user-attachments/assets/1242c28d-51c3-46ea-afc8-6e125733097b" /></p>
-
 <p align="center"><img width="200" alt="1000015842" src="https://github.com/user-attachments/assets/f067a345-4bef-43cc-ae5f-b557b525efb3" /></p>
-<div align="center">
-<details>
-  <summary style="cursor: pointer; list-style: none;">
-     ${\color{#869789}\Large\text{⟡ xtra ⟡}}$
-  </summary>
-  <div style="margin-top: 15px;">
-   <img width="700"  alt="Untitled220_20261023235740" src="https://github.com/user-attachments/assets/71d184ac-647b-4b15-ab7b-3c251a51c60e" />
-    <p align="center"> @i-kittytrap    me     @dearvoidstar    @Jeverus  
-  </div>
-</details>
-</div>
+
